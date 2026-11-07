@@ -18,14 +18,19 @@
 
 | Flagship Platform | Description | Architecture | Status |
 | :--- | :--- | :--- | :--- |
-| [****](https://github.com/ahmed12345678985/vanir-web) | Full-stack luxury web portal, booking engine, AI concierge & unified admin control suite | React 19, TypeScript, Vite, Tailwind CSS, tRPC 11, Turso DB | 🟢 Production Active |
-| [****](https://github.com/ahmed12345877/vanir-app) | Official VIP guest mobile application for Android & cross-platform | React Native, Android App Bundle (AAB), Hermes Engine | 🟢 Google Play Ready |
+| [**vanir-web**](https://github.com/ahmed12345678985/vanir-web) | Full-stack luxury web portal, booking engine, AI concierge & unified admin control suite | React 19, TypeScript, Vite, Tailwind CSS, tRPC 11, Turso DB | 🟢 Production Active |
+| [**vanir-app**](https://github.com/ahmed12345877/vanir-app) | Official VIP guest mobile application for Android & cross-platform | React Native, Android App Bundle (AAB), Hermes Engine | 🟢 Google Play Ready |
 
 ---
 
 ### ✈️ Core Concierge & Aviation Brokerage Disciplines
 
-
+| Discipline | Curated Services | Operational Coverage |
+| :--- | :--- | :--- |
+| **Private Jet Aviation** | Very Light Jets, Super Midsize & Ultra Long-Range Charters | Worldwide Direct Tarmac Fast Track |
+| **Bespoke Egypt Odysseys** | Pharaohs & Superyacht, Imperial Egypt, Nile Luxury Cruises | Cairo, Luxor, Aswan, Red Sea, Siwa |
+| **Presidential Protocol** | Armored Transport, Fast-Track Immigration, Private Villa Buyouts | Global Diplomatic & UHNW Standards |
+| **AI Travel Concierge** | Real-time Multimodal Custom Itinerary Architecture | 24/7 On-Demand Direct Access |
 
 ---
 
